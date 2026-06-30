@@ -1,4 +1,5 @@
 ### Matplotlib implementation to visualise the recoverable frequency space for an imaging system with multiplexed illumination where the NA of illumination and the NA of the objective is known. 
+Disclosure: this code was written by **Claude haiku** using a prompt that explained the equations and asked for an implementation of an interactive plot. 
 
 ## Required packages: 
 - numpy
