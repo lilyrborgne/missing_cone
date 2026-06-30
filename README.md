@@ -6,7 +6,7 @@ AI Disclosure: this code was written by **Claude haiku** using a prompt that exp
 - matplotlib.pyplot
 - matplotlib.widgets.Slider
 
-The enveloppe features a quarter of a 2D slice of the recoverable frequencies space. However since the total dome of aggregated caps of Ewald spheres provided by the LEDs has the symetries of a sphere, that illustration embeds all the necessary information to model the missing cone. 
+The enveloppe features half of a 2D slice of the recoverable frequencies space. However since the total dome of aggregated caps of Ewald spheres provided by the LEDs has the symetries of a sphere, that illustration embeds all the necessary information to model the missing cone. 
 
 ## It is based on the following equations:
 
